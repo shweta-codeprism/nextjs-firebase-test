@@ -21,6 +21,7 @@ export default function Home() {
       <Head>
         <title>Next.js w/ Firebase Client-Side</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="ECommerce"></meta>
       </Head>
 
       <main>
